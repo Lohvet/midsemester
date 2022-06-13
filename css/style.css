@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 3px;
+    text-align: center;
+    background-color: brown;
+}
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.navbar{
+    background-color: lawngreen;
+}
+.id{
+    display: flex;
+    justify-content: space-around;
+}
+.lopflex{
+    list-style: none;
+    padding: 15px 20px;
+}
+.lopfloat{
+    float: left;
+    width: 16%;
+    padding: 10px 55px;
+    list-style-type: none;
+    color: aqua;
+}
+.second{
+    text-align: left;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first{
+    padding-top: 20px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
